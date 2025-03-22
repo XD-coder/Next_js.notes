@@ -16,7 +16,10 @@ For better routing and more functions we use "useRouter"
 	- ### [router.reload](https://nextjs.org/docs/pages/api-reference/functions/use-router#routerreload)
 
 # dynamic Routing  :
+When you don't know the exact segment names ahead of time and want to create routes from dynamic data, you can use Dynamic Segments that are filled in at request time
 
+- A Dynamic Segment can be created by wrapping a file or folder name in square brackets: `[segmentName]`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMzk3MTA4LDE4ODgyNzk5MDJdfQ==
+eyJoaXN0b3J5IjpbMTQwNDA3NDA4OSw1MDIzOTcxMDgsMTg4OD
+I3OTkwMl19
 -->
