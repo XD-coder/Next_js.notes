@@ -18,8 +18,8 @@ For better routing and more functions we use "useRouter"
 # dynamic Routing  :
 When you don't know the exact segment names ahead of time and want to create routes from dynamic data, you can use Dynamic Segments that are filled in at request time
 
-- A Dynamic Segment can be created by wrapping a file or folder name in square brackets: `[segmentName]`
+- A Dynamic Segment can be created by wrapping a file or folder name in square brackets: `[segmentName]`	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDA3NDA4OSw1MDIzOTcxMDgsMTg4OD
-I3OTkwMl19
+eyJoaXN0b3J5IjpbLTkwOTM0ODg0NywxNDA0MDc0MDg5LDUwMj
+M5NzEwOCwxODg4Mjc5OTAyXX0=
 -->
